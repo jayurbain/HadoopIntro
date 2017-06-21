@@ -5,11 +5,11 @@ Hands-on introduction for developers to the Hadoop Ecosystem. Focus on MapReduce
 Jay Urbain
 
 ## Topics:  
-- [Hadoop Intro]('Hadoop Intro.pdf')   
-- [Hadoop Setup]('Hadoop Setup.pdf')  
-- [MapReduce 1.0]('MapReduce 1.0.pdf')
-- [MapReduce 2.0 YARN]('MapReduce 2.0 YARN.pdf') 
-- [Tuning MapReduce]('Tuning MapReduce.pdf')  
+- [Hadoop Intro]("Hadoop%20Intro.pdf")   
+- [Hadoop Setup]('Hadoop%20Setup.pdf')  
+- [MapReduce 1.0]('MapReduce%201.0.pdf')
+- [MapReduce 2.0 YARN]('MapReduce%202.0%20YARN.pdf') 
+- [Tuning MapReduce]('Tuning%20MapReduce.pdf')  
 - [Hive]('Hive.pdf')  
 
 ## Expected background:
@@ -34,4 +34,4 @@ http://shop.oreilly.com/product/0636920033448.do
 - http://hadoop.apache.org/
 
 - Cloudera
-https://www.cloudera.com/documentation.
+https://www.cloudera.com/documentation.html
