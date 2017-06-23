@@ -12,6 +12,12 @@ Jay Urbain
 - [Tuning MapReduce](Tuning%20MapReduce.pdf)  
 - [Hive](Hive.pdf)  
 
+## Additional Topics:
+- [Google File System](cs4230-google-file-system-3.pdf)  
+- [MapReduce Application Examples](map_reduce_examples.pdf)  
+- [MapReduce on Graphs - PageRank](mapreduce-graphs-pagerank.pdf) 
+- [Hive](Big%20Data%20Storage%20in%20Modern%20Databases.pdf)
+
 ## Expected background:
 - Programming language – Java, Python
 
@@ -33,5 +39,8 @@ http://shop.oreilly.com/product/0636920033448.do
 
 - http://hadoop.apache.org/
 
-- Cloudera
+- Cloudera Documentation
 https://www.cloudera.com/documentation.html
+
+- Cloudera Hadoop Tutorial
+https://www.cloudera.com/developers/get-started-with-hadoop-tutorial.html?src=GoogleAdWords&gclid=CjwKEAjw-LLKBRCdhqmwtYmX93kSJAAORDM6PFCko9jqBMJAMyJARlIe0VB4NyjSEJ7_CVYVrSkP9xoC-u_w_wcB
