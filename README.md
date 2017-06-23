@@ -16,7 +16,6 @@ Jay Urbain
 - [Google File System](cs4230-google-file-system-3.pdf)  
 - [MapReduce Application Examples](map_reduce_examples.pdf)  
 - [MapReduce on Graphs - PageRank](mapreduce-graphs-pagerank.pdf) 
-- [Hive](Big%20Data%20Storage%20in%20Modern%20Databases.pdf)
 
 ## Expected background:
 - Programming language – Java, Python
